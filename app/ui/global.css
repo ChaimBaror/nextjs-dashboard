@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 body {
-  background: burlywood;
-  color: #000000;
+  background:black;
+  color: #fff;
 }
 
 input[type='number'] {
