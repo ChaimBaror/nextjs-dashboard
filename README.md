@@ -1,3 +1,6 @@
+# [Visit🚀](https://nextjs-dashboard-fiqjh8xjo-chaimbarors-projects.vercel.app/)
+  email: `chaim@admin.com`,
+  password: `1q2w3e4r`,
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
