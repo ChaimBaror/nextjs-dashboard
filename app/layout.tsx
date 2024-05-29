@@ -1,11 +1,19 @@
 import '@/app/ui/global.css';
 import { inter } from '@/app/ui/fonts';
+import { Metadata } from 'next';
+ 
+export const metadata: Metadata = {
+  title: 'Y.N.b Dashboard',
+  description: 'Y.N.b Dashboard by Chaim Bar-Or',
+};
  
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
+
+  
   return (
     <html lang="en">
       <body className={`${inter.className} antialiased`}>{children}</body>
