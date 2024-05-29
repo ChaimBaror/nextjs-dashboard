@@ -1,4 +1,4 @@
-# [Visit🚀](https://nextjs-dashboard-fiqjh8xjo-chaimbarors-projects.vercel.app/)
+# [Visit🚀](https://nextjs-dashboard-two-smoky-44.vercel.app/)
   email: `chaim@admin.com`,
   password: `1q2w3e4r`,
 ## Next.js App Router Course - Starter
